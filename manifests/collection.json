@@ -1,0 +1,13 @@
+{
+  "id" : "https://dtsoline.github.io/IIIF-project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in dtsoline/IIIF-project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json",
+    "label" : "Changes of the perception of the wolf"
+  } ]
+}
