@@ -156,6 +156,32 @@
 			"label": "Illustration of wolf in Little Red Riding Hood",
 			"height": 1438,
 			"width": 1024,
+			"metadata" : [ {
+      "label": "Digitised by",
+      "value": "Bibliothèque nationale de France"
+    }, {
+      				  "label" : "Sources Images",
+     				   "value": "https://gallica.bnf.fr/ark:/12148/bpt6k56748664"
+     			 },  {
+      "label": "Shelfmark",
+      "value": "Bibliothèque nationale de France, département Littérature et art, FOL-Y2 PIECE-89"
+    }, {
+      "label": "Title",
+      "value": "Le petit chaperon rouge"
+    },
+    {
+      "label": "Date",
+      "value": "1909"
+    },
+    {
+      "label": "Language",
+      "value": [
+        {
+          "@value": "français"
+        }
+      ]
+    }],
+				      
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://9e28c24d-3c83-466d-a26d-e0e3c75a52f8",
