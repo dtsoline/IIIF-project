@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "Changes of the perception of the wolf",
+  "label" : "Evolution of the representation of the wolf",
   "metadata" : [ ],
   "description" : [ ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -93,32 +93,6 @@
       } ],
       "related" : ""
     }, {
-      "@id" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa",
-      "@type" : "sc:Canvas",
-      "label" : "Image of the Beast of Gévaudan",
-      "height" : 845,
-      "width" : 1280,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://f94e075a-66fa-4b8b-98d9-299ef3c6a736",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 845,
-          "width" : 1280
-        },
-        "on" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
-      } ],
-      "related" : ""
-    }, {
       "@id" : "http://393b12d7-ec16-4bd5-adc2-8946a37863f1",
       "@type" : "sc:Canvas",
       "label" : "Aesop's wolf and dog illustration",
@@ -142,6 +116,32 @@
           "width" : 600
         },
         "on" : "http://393b12d7-ec16-4bd5-adc2-8946a37863f1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa",
+      "@type" : "sc:Canvas",
+      "label" : "Image of the Beast of Gévaudan",
+      "height" : 845,
+      "width" : 1280,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f94e075a-66fa-4b8b-98d9-299ef3c6a736",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 845,
+          "width" : 1280
+        },
+        "on" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
       } ],
       "related" : ""
     }, {
