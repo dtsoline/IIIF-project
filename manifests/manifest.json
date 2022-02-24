@@ -1,176 +1,182 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json",
-  "@type" : "sc:Manifest",
-  "label" : "Evolution of the representation of the wolf",
-  "metadata" : [ ],
-  "description" : [ ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
-  "sequences" : [ {
-    "@id" : "http://663a7fe0-bff6-4f22-9806-9d4e4018b27e",
-    "@type" : "sc:Sequence",
-    "label" : [ {
-      "@value" : "Normal Sequence",
-      "@language" : "en"
-    } ],
-    "canvases" : [ {
-      "@id" : "http://9a76a654-7a80-4a99-84bf-e1089622522a",
-      "@type" : "sc:Canvas",
-      "label" : "Mosaic of the she-wolf with Romulus and Remus",
-      "height" : 770,
-      "width" : 800,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://02a10a10-e86e-4e68-9433-596acce36f0d",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/mosaic_RomulusRemus/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/mosaic_RomulusRemus",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 770,
-          "width" : 800
-        },
-        "on" : "http://9a76a654-7a80-4a99-84bf-e1089622522a"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://5e10bd81-f1cb-4a71-b0a8-af01e4fc608a",
-      "@type" : "sc:Canvas",
-      "label" : "Image of wolf in the Aberdeen Bestiary",
-      "height" : 786,
-      "width" : 1200,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://354b598f-66c2-40d0-8f74-bb15edef0089",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/aberdeen-bestiary/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/aberdeen-bestiary",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 786,
-          "width" : 1200
-        },
-        "on" : "http://5e10bd81-f1cb-4a71-b0a8-af01e4fc608a"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://b97e9209-0bc9-4c42-901a-b9338e33e519",
-      "@type" : "sc:Canvas",
-      "label" : "Image of duel in Reynard the Fox",
-      "height" : 331,
-      "width" : 600,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://9a7d4150-cc33-4dfc-89cb-0417acd44ef1",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/reynardthefox_202202/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/reynardthefox_202202",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 331,
-          "width" : 600
-        },
-        "on" : "http://b97e9209-0bc9-4c42-901a-b9338e33e519"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://393b12d7-ec16-4bd5-adc2-8946a37863f1",
-      "@type" : "sc:Canvas",
-      "label" : "Aesop's wolf and dog illustration",
-      "height" : 547,
-      "width" : 600,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://29976978-7311-440c-acb5-7355e232de56",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/aesop_wolfdog/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/aesop_wolfdog",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 547,
-          "width" : 600
-        },
-        "on" : "http://393b12d7-ec16-4bd5-adc2-8946a37863f1"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa",
-      "@type" : "sc:Canvas",
-      "label" : "Image of the Beast of Gévaudan",
-      "height" : 845,
-      "width" : 1280,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://f94e075a-66fa-4b8b-98d9-299ef3c6a736",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/beast_Gevaudan",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 845,
-          "width" : 1280
-        },
-        "on" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02",
-      "@type" : "sc:Canvas",
-      "label" : "Illustration of wolf in Little Red Riding Hood",
-      "height" : 1438,
-      "width" : 1024,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://9e28c24d-3c83-466d-a26d-e0e3c75a52f8",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/little_red_riding_hood_202202/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/little_red_riding_hood_202202",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 1438,
-          "width" : 1024
-        },
-        "on" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
-      } ],
-      "related" : ""
-    } ]
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://dtsoline.github.io/IIIF-project/manifests/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Evolution of the representation of the wolf",
+	"metadata": [{
+		"label": "Context Title",
+		"value": "IIIF Assignement for the Master's Degree 'Technologies numériques appliquées à l'histoire'"
+	}],
+  "description" : [ {
+    "@value" : "Six images documenting the evolution of the perception of the wolf between antiquity and the twentieth century.",
+    "@language" : "en"
   } ],
-  "structures" : [ ]
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Soline Doat",
+	"sequences": [{
+		"@id": "http://663a7fe0-bff6-4f22-9806-9d4e4018b27e",
+		"@type": "sc:Sequence",
+		"label": [{
+			"@value": "Normal Sequence",
+			"@language": "en"
+		}],
+		"canvases": [{
+			"@id": "http://9a76a654-7a80-4a99-84bf-e1089622522a",
+			"@type": "sc:Canvas",
+			"label": "Mosaic of the she-wolf with Romulus and Remus",
+			"height": 770,
+			"width": 800,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://02a10a10-e86e-4e68-9433-596acce36f0d",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/mosaic_RomulusRemus/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/mosaic_RomulusRemus",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 770,
+					"width": 800
+				},
+				"on": "http://9a76a654-7a80-4a99-84bf-e1089622522a"
+			}],
+			"related": ""
+		}, {
+			"@id": "http://5e10bd81-f1cb-4a71-b0a8-af01e4fc608a",
+			"@type": "sc:Canvas",
+			"label": "Image of wolf in the Aberdeen Bestiary",
+			"height": 786,
+			"width": 1200,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://354b598f-66c2-40d0-8f74-bb15edef0089",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/aberdeen-bestiary/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/aberdeen-bestiary",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 786,
+					"width": 1200
+				},
+				"on": "http://5e10bd81-f1cb-4a71-b0a8-af01e4fc608a"
+			}],
+			"related": ""
+		}, {
+			"@id": "http://b97e9209-0bc9-4c42-901a-b9338e33e519",
+			"@type": "sc:Canvas",
+			"label": "Image of duel in Reynard the Fox",
+			"height": 331,
+			"width": 600,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://9a7d4150-cc33-4dfc-89cb-0417acd44ef1",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/reynardthefox_202202/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/reynardthefox_202202",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 331,
+					"width": 600
+				},
+				"on": "http://b97e9209-0bc9-4c42-901a-b9338e33e519"
+			}],
+			"related": ""
+		}, {
+			"@id": "http://393b12d7-ec16-4bd5-adc2-8946a37863f1",
+			"@type": "sc:Canvas",
+			"label": "Aesop's wolf and dog illustration",
+			"height": 547,
+			"width": 600,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://29976978-7311-440c-acb5-7355e232de56",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/aesop_wolfdog/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/aesop_wolfdog",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 547,
+					"width": 600
+				},
+				"on": "http://393b12d7-ec16-4bd5-adc2-8946a37863f1"
+			}],
+			"related": ""
+		}, {
+			"@id": "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa",
+			"@type": "sc:Canvas",
+			"label": "Image of the Beast of Gévaudan",
+			"height": 845,
+			"width": 1280,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://f94e075a-66fa-4b8b-98d9-299ef3c6a736",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/beast_Gevaudan/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/beast_Gevaudan",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 845,
+					"width": 1280
+				},
+				"on": "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
+			}],
+			"related": ""
+		}, {
+			"@id": "http://fd285f85-bef1-4c3c-9f30-98b048f19b02",
+			"@type": "sc:Canvas",
+			"label": "Illustration of wolf in Little Red Riding Hood",
+			"height": 1438,
+			"width": 1024,
+			"images": [{
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@id": "http://9e28c24d-3c83-466d-a26d-e0e3c75a52f8",
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"resource": {
+					"@id": "https://iiif.archivelab.org/iiif/little_red_riding_hood_202202/full/full/0/default.jpg",
+					"@type": "dctypes:Image",
+					"format": "image/jpeg",
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/little_red_riding_hood_202202",
+						"profile": ["http://iiif.io/api/image/2/level2.json"]
+					},
+					"height": 1438,
+					"width": 1024
+				},
+				"on": "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+			}],
+			"related": ""
+		}]
+	}],
+	"structures": []
 }
