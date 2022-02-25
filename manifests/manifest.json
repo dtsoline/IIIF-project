@@ -26,25 +26,25 @@
 			"label": "Mosaic of the she-wolf with Romulus and Remus",
 			"height": 770,
 			"width": 800,
-			"metadata" : [ {
+			"metadata" : [{
         "label" : "Repository",
         "value" : "Internet archive"
-      }, {
+      	}, {
         "label" : "Sources Images",
         "value" : "https://archive.org/details/mosaic_RomulusRemus"
-      }, {
+      	}, {
         "label" : "Title",
         "value" : "Mosaic Romulus and Remus"
-      }, {
+      	}, {
         "label" : "Date",
         "value" : "ca. 350"
-      }, {
+      	}, {
         "label" : "Format",
         "value" : "1216 × 1170 pixels"
-      }, {
+      	}, {
         "label" : "Type",
         "value" : "Mosaic"
-      }],
+      	}],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://02a10a10-e86e-4e68-9433-596acce36f0d",
@@ -71,16 +71,16 @@
 			"label": "Image of wolf in the Aberdeen Bestiary",
 			"height": 786,
 			"width": 1200,
-			"metadata" : [ {
+			"metadata" : [{
         "label" : "Repository",
         "value" : "Internet Archive"
-      }, {
+      	},{
         "label" : "Sources Images",
         "value" : "https://archive.org/details/aberdeen-bestiary"
-      }, {
+      	},{
         "label" : "Title",
         "value" : "Image of wolf in the Aberdeen Bestiary"
-      }, {
+      	},{
        
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -134,12 +134,11 @@
 			"label": "Aesop's wolf and dog illustration",
 			"height": 547,
 			"width": 600,
-			"metadata": [
-    {
-      "label": "Repository",
-      "value": ""
-    },
-    {
+			"metadata": [{
+      				"label": "Repository",
+      				"value": ""
+    		},
+    		{
       "label": "Digitised by",
       "value": "Bibliothèque nationale de France"
     },
