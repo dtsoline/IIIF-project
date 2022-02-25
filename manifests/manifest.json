@@ -7,10 +7,10 @@
 		"label": "Context Title",
 		"value": "IIIF Assignement for the Master's Degree 'Technologies numériques appliquées à l'histoire'"
 	}],
-  "description" : [ {
-    "@value" : "Six images documenting the evolution of the perception of the wolf between antiquity and the twentieth century.",
-    "@language" : "en"
-  } ],
+	"description": [{
+		"@value": "Six images documenting the evolution of the perception of the wolf between antiquity and the twentieth century.",
+		"@language": "en"
+	}],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "Soline Doat",
 	"sequences": [{
@@ -26,25 +26,25 @@
 			"label": "Mosaic of the she-wolf with Romulus and Remus",
 			"height": 770,
 			"width": 800,
-			"metadata" : [{
-        "label" : "Repository",
-        "value" : "Internet archive"
-      	}, {
-        "label" : "Sources Images",
-        "value" : "https://archive.org/details/mosaic_RomulusRemus"
-      	}, {
-        "label" : "Title",
-        "value" : "Mosaic Romulus and Remus"
-      	}, {
-        "label" : "Date",
-        "value" : "ca. 350"
-      	}, {
-        "label" : "Format",
-        "value" : "1216 × 1170 pixels"
-      	}, {
-        "label" : "Type",
-        "value" : "Mosaic"
-      	}],
+			"metadata": [{
+				"label": "Repository",
+				"value": "Internet archive"
+			}, {
+				"label": "Sources Images",
+				"value": "https://archive.org/details/mosaic_RomulusRemus"
+			}, {
+				"label": "Title",
+				"value": "Mosaic Romulus and Remus"
+			}, {
+				"label": "Date",
+				"value": "ca. 350"
+			}, {
+				"label": "Format",
+				"value": "1216 × 1170 pixels"
+			}, {
+				"label": "Type",
+				"value": "Mosaic"
+			}],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://02a10a10-e86e-4e68-9433-596acce36f0d",
@@ -71,17 +71,17 @@
 			"label": "Image of wolf in the Aberdeen Bestiary",
 			"height": 786,
 			"width": 1200,
-			"metadata" : [{
-        "label" : "Repository",
-        "value" : "Internet Archive"
-      	},{
-        "label" : "Sources Images",
-        "value" : "https://archive.org/details/aberdeen-bestiary"
-      	},{
-        "label" : "Title",
-        "value" : "Image of wolf in the Aberdeen Bestiary"
-      	},{
-       
+			"metadata": [{
+				"label": "Repository",
+				"value": "Internet Archive"
+			}, {
+				"label": "Sources Images",
+				"value": "https://archive.org/details/aberdeen-bestiary"
+			}, {
+				"label": "Title",
+				"value": "Image of wolf in the Aberdeen Bestiary"
+			}],
+
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://354b598f-66c2-40d0-8f74-bb15edef0089",
@@ -135,33 +135,34 @@
 			"height": 547,
 			"width": 600,
 			"metadata": [{
-      				"label": "Repository",
-      				"value": ""
-    		},
-    		{
-      "label": "Digitised by",
-      "value": "Bibliothèque nationale de France"
-    },
-    {
-      "label": "Source Images",
-      "value": "https://gallica.bnf.fr/ark:/12148/btv1b8449690f"
-    },
-    {
-      "label": "Metadata Source",
-      "value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b8449690f"
-    },
-    {
-      "label": "Shelfmark",
-      "value": "Bibliothèque nationale de France. Département des Manuscrits. NAF 15939"
-    },
-    {
-      "label": "Title",
-      "value": "Vincent de Beauvais, Speculum historiale, traduction française par Jean de Vignay,sous le titre Miroir historial. Vol. I (Livres I-VII)"
-    },
-    {
-      "label": "Language",
-      "value": "français"
-    }],
+					"label": "Repository",
+					"value": ""
+				},
+				{
+					"label": "Digitised by",
+					"value": "Bibliothèque nationale de France"
+				},
+				{
+					"label": "Source Images",
+					"value": "https://gallica.bnf.fr/ark:/12148/btv1b8449690f"
+				},
+				{
+					"label": "Metadata Source",
+					"value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b8449690f"
+				},
+				{
+					"label": "Shelfmark",
+					"value": "Bibliothèque nationale de France. Département des Manuscrits. NAF 15939"
+				},
+				{
+					"label": "Title",
+					"value": "Vincent de Beauvais, Speculum historiale, traduction française par Jean de Vignay,sous le titre Miroir historial. Vol. I (Livres I-VII)"
+				},
+				{
+					"label": "Language",
+					"value": "français"
+				}
+			],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://29976978-7311-440c-acb5-7355e232de56",
@@ -188,10 +189,10 @@
 			"label": "Image of the Beast of Gévaudan",
 			"height": 845,
 			"width": 1280,
-			
-			
-			
-			
+
+
+
+
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://f94e075a-66fa-4b8b-98d9-299ef3c6a736",
@@ -218,28 +219,29 @@
 			"label": "Illustration of wolf in Little Red Riding Hood",
 			"height": 1438,
 			"width": 1024,
-			"metadata" : [ {
-      "label": "Digitised by",
-      "value": "Bibliothèque nationale de France"
-    }, {
-      				  "label" : "Sources Images",
-     				   "value": "https://gallica.bnf.fr/ark:/12148/bpt6k56748664"
-     			 },  {
-      "label": "Shelfmark",
-      "value": "Bibliothèque nationale de France, département Littérature et art, FOL-Y2 PIECE-89"
-    }, {
-      "label": "Title",
-      "value": "Le petit chaperon rouge"
-    },
-    {
-      "label": "Date",
-      "value": "1909"
-    },
-    {
-      "label": "Language",
-      "value": "fr"
-    }],
-				      
+			"metadata": [{
+					"label": "Digitised by",
+					"value": "Bibliothèque nationale de France"
+				}, {
+					"label": "Sources Images",
+					"value": "https://gallica.bnf.fr/ark:/12148/bpt6k56748664"
+				}, {
+					"label": "Shelfmark",
+					"value": "Bibliothèque nationale de France, département Littérature et art, FOL-Y2 PIECE-89"
+				}, {
+					"label": "Title",
+					"value": "Le petit chaperon rouge"
+				},
+				{
+					"label": "Date",
+					"value": "1909"
+				},
+				{
+					"label": "Language",
+					"value": "fr"
+				}
+			],
+
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://9e28c24d-3c83-466d-a26d-e0e3c75a52f8",
