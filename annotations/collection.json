@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38.json" ],
+  "otherContent" : [ "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38.json", "https://dtsoline.github.io/IIIF-project/annotations/76fc43c63d9e0055c9914fa58da264d2.json" ],
   "@id" : "https://dtsoline.github.io/IIIF-project/annotations/collection.json",
   "label" : "All annotations loaded in dtsoline/IIIF-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
