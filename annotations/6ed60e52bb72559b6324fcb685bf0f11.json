@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The bad wolf disguised as a grandmother with a hat and glasses to trick the Little Red Riding Hood.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The bad wolf disguised as a grandmother with a hat and glasses to trick the Little Red Riding Hood.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T14:38:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645799915393",
+    "dcterms:modified" : "2022-02-25T19:35:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=624,221,301,314"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M623.63147,221.31788h150.25541v0h150.25541v157.16046v157.16046h-150.25541h-150.25541v-157.16046z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_dfede7dd-b71e-49a6-bd36-e8334b1a71bf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "&nbsp;\nTranscription : Le m&eacute;chant loup, apr&egrave;s qu'il eut mang&eacute; la m&egrave;re-grand et le petit Chaperon rouge.\nTranslation :",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>&nbsp;</p>\n<p>Transcription : Le m&eacute;chant loup, apr&egrave;s qu'il eut mang&eacute; la m&egrave;re-grand et le petit Chaperon rouge.</p>\n<p>Translation :</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T14:16:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645798607377",
+    "dcterms:modified" : "2022-02-25T14:22:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=160,1154,265,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M160.29829,1153.69934h132.31407v0h132.31407v34.9351v34.9351h-132.31407h-132.31407v-34.9351z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c9798a08-c6bd-4853-b6f8-9cb227ae5b46\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Title of the tale\nTranscription :\nLE PETIT CHAPERON ROUGE\nTranslation :\nLittle Red Riding Hood",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Title of the tale</p>\n<p>Transcription :</p>\n<p>LE PETIT CHAPERON ROUGE</p>\n<p>Translation :</p>\n<p>Little Red Riding Hood</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T14:14:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645798486729",
+    "dcterms:modified" : "2022-02-25T14:21:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=416,96,257,37"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M415.72727,96.18182h128.72727v0h128.72727v18.27273v18.27273h-128.72727h-128.72727v-18.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0649c29b-1b9c-4139-b525-19bd9aa3ebc2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Page number : 48.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Page number : 48.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T19:46:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645818361292",
+    "dcterms:modified" : "2022-02-25T19:46:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=158,94,37,31"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M158.45455,94.36364h18.72727v0h18.72727v15.54545v15.54545h-18.72727h-18.72727v-15.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a2ad98f5-3aa8-40fd-9a09-4f83a368eac0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription :\n- C'est pour mieux te voir, mon enfant.\n- Ma-m&egrave;re grand que vous avez de grandes dents.\n- C'est mieux te manger.\nEt en disant ces mots, le m&eacute;chant loup se jeta sur le pauvre Petit Chaperon rouge et le mangea.\n&nbsp;\n&nbsp;\n&nbsp;\n- C'est pour mieux te voir, mon enfant.\n- Ma-m&egrave;re grand que vous avez de grandes dents.\n- C'est mieux te manger.\nEt en disant ces mots, le m&eacute;chant loup se jeta sur le pauvre Petit Chaperon rouge et le mangea.\n&nbsp;\nTranslation :\n- It is to see you, my child.- My grandma you have big teeth.- The better to eat you.And saying these words, the wicked wolf threw himself on poor Little Red Riding Hood and ate her.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Transcription :</p>\n<p>- C'est pour mieux te voir, mon enfant.</p>\n<p>- Ma-m&egrave;re grand que vous avez de grandes dents.</p>\n<p>- C'est mieux te manger.</p>\n<p>Et en disant ces mots, le m&eacute;chant loup se jeta sur le pauvre Petit Chaperon rouge et le mangea.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>- C'est pour mieux te voir, mon enfant.</p>\n<p>- Ma-m&egrave;re grand que vous avez de grandes dents.</p>\n<p>- C'est mieux te manger.</p>\n<p>Et en disant ces mots, le m&eacute;chant loup se jeta sur le pauvre Petit Chaperon rouge et le mangea.</p>\n<p>&nbsp;</p>\n<p>Translation :</p>\n<p>- It is to see you, my child.<br /><br />- My grandma you have big teeth.<br /><br />- The better to eat you.<br /><br />And saying these words, the wicked wolf threw himself on poor Little Red Riding Hood and ate her.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T14:20:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645798803601",
+    "dcterms:modified" : "2022-02-27T01:26:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=157,142,338,293"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M157.09091,434.36364h169.18182v0h169.18182v-146.27273v-146.27273h-169.18182h-169.18182v146.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2566cf0a-4855-4fb3-b3d7-3098039d167c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd285f85-bef1-4c3c-9f30-98b048f19b02"
+    } ]
+  } ],
+  "@id" : "https://dtsoline.github.io/IIIF-project/annotations/6ed60e52bb72559b6324fcb685bf0f11.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
