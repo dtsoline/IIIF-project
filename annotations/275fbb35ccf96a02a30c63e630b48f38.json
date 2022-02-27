@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The face of this wolf seems benevolent and reveals the differences in symbolic treatment with other wolves.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The face of this wolf seems benevolent and reveals the differences in symbolic treatment with other wolves.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T11:01:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645873269439",
+    "dcterms:modified" : "2022-02-26T11:01:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=266,335,126,114"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M284.03291,351.48102c11.66719,-9.60786 28.12565,-16.76252 44.66386,-16.75397v0v0c16.53822,0.00855 30.94578,6.70161 44.66386,16.75397c13.71809,10.05236 19.05013,25.37021 18.50038,40.44766c-0.54975,15.07744 -6.98131,29.91448 -18.50038,40.44766c-11.51907,10.53318 -28.12565,16.76252 -44.66386,16.75397c-16.53822,-0.00855 -33.00807,-6.25498 -44.66386,-16.75397c-11.65579,-10.49899 -18.49753,-25.25054 -18.50038,-40.44766c-0.00285,-15.19712 6.83319,-30.83979 18.50038,-40.44766z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_ce931696-9017-4327-8a9c-813c4f5ab90f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9a76a654-7a80-4a99-84bf-e1089622522a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Ficus Ruminalis is a wild fig tree where according to tradition the floating makeshift cradle of Romulus and Remus landed on the banks of the Tiber.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The <em>Ficus Ruminalis</em> is a wild fig tree where according to tradition the floating makeshift cradle of Romulus and Remus landed on the banks of the Tiber.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T00:52:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645836751485",
+    "dcterms:modified" : "2022-02-26T11:54:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=130,112,547,534"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M129.54545,644.54545l157.27273,0.90909l-28.18182,-119.09091l-10,-125.45455l-17.27273,-36.36364l8.18182,-40l30.90909,-12.72727l18.18182,-12.72727l78.18182,13.63636l72.72727,30.90909l37.27273,6.36364l127.27273,-0.90909l51.81818,-18.18182l-4.54545,-56.36364l25.45455,-73.63636l-8.18182,-81.81818l-316.36364,-6.36364l-218.18182,-0.90909l-3.63636,169.09091l39.09091,47.27273l13.63636,163.63636l1.81818,75.45455l-47.27273,43.63636l-7.27273,33.63636l2.72727,-11.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_cfd207da-5e4c-405c-88da-bf2e1aeb79aa\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9a76a654-7a80-4a99-84bf-e1089622522a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Romulus and Remus\nRomulus is the legendary founder of the city of Rome after killing his brother, Remus.\nThe creation of the city of Rome is traditionally dated in 753.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Romulus and Remus</p>\n<p>Romulus is the legendary founder of the city of Rome after killing his brother, Remus.</p>\n<p>The creation of the city of Rome is traditionally dated in 753.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T00:48:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645836480828",
+    "dcterms:modified" : "2022-02-26T10:55:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=410,507,141,102"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M430.73134,521.77843c13.02495,-8.5345 31.39876,-14.88985 49.8616,-14.88226v0v0c18.46284,0.00759 34.54708,5.95292 49.8616,14.88226c15.31452,8.92934 21.26708,22.53593 20.65335,35.92896c-0.61373,13.39303 -7.79376,26.57252 -20.65335,35.92896c-12.85959,9.35644 -31.39876,14.88985 -49.8616,14.88226c-18.46284,-0.00759 -36.84937,-5.55619 -49.8616,-14.88226c-13.01223,-9.32607 -20.65017,-22.42962 -20.65335,-35.92896c-0.00318,-13.49934 7.6284,-27.39446 20.65335,-35.92896z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_300a19ac-364e-4c8e-aeb0-1622b36749d4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.49265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9a76a654-7a80-4a99-84bf-e1089622522a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "According to legend, Romulus and Remus were rescued by a she-wolf that fed them. She quickly became one of the emblems of Rome and also appears on the coins.\n<img src=\"https://www.coinarchives.com/5b69ea21235dc9062f6137b715b12197/img/roma/023/image00965.jpg\" alt=\"Hadrian AV Aureus.\" width=\"1500\" height=\"738\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>According to legend, Romulus and Remus were rescued by a she-wolf that fed them. She quickly became one of the emblems of Rome and also appears on the coins.</p>\n<p><img src=\"https://www.coinarchives.com/5b69ea21235dc9062f6137b715b12197/img/roma/023/image00965.jpg\" alt=\"Hadrian AV Aureus.\" width=\"1500\" height=\"738\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T11:07:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645873679580",
+    "dcterms:modified" : "2022-02-26T11:25:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=252,308,434,344"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M296.81818,471.46725l-44.54545,-130.90909l30.90909,-17.27273l53.63636,-15.45455l34.54545,21.81818l3.63636,32.72727l60,20.90909l135.45455,-27.27273l72.72727,9.09091l10.90909,31.81818l10,62.72727l21.81818,79.44184l-8.18182,17.27273l-46.36364,11.81818l-31.81818,57.27273l-7.27273,20l-7.27273,5.45455l-90,0.90909l-182.72727,-3.63636l18.18182,-81.81818l-39.09091,-34.54545l3.63636,-61.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_8271d5eb-d1fb-4523-9e9e-805d512785af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9a76a654-7a80-4a99-84bf-e1089622522a"
+    } ]
+  } ],
+  "@id" : "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
