@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38.json" ],
+  "@id" : "https://dtsoline.github.io/IIIF-project/annotations/collection.json",
+  "label" : "All annotations loaded in dtsoline/IIIF-project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
