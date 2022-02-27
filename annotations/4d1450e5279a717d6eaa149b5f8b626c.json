@@ -35,10 +35,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Aggressive wolf ready to attack sheep",
+      "http://dev.llgc.org.uk/sas/full_text" : "Not friendly wolf ready to eat the sheep",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Aggressive wolf ready to attack sheep</p>"
+      "chars" : "<p>Not friendly wolf ready to eat the sheep</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
