@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scary face with visible sharp teeth, backward pointing ears, aggretive eyes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Scary face with visible sharp teeth, backward pointing ears, aggretive eyes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-26T01:03:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645837438377",
+    "dcterms:modified" : "2022-02-26T01:03:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=71,173,327,309"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M79.72967,288.28867c14.98064,-37.15531 44.20454,-74.57202 82.67176,-95.3004v0v0c38.46721,-20.72837 80.43256,-23.11718 125.0425,-16.7678c44.60994,6.34938 76.37798,35.56041 94.16504,71.58714c17.78706,36.02673 21.59313,78.86916 8.12698,118.00731c-13.46616,39.13815 -44.20454,74.57202 -82.67176,95.3004c-38.46721,20.72837 -84.66325,26.75125 -125.0425,16.7678c-40.37924,-9.98345 -74.94168,-35.97322 -94.16504,-71.58714c-19.22335,-35.61392 -23.10762,-80.852 -8.12698,-118.00731z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-28.34821992436105,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_719f8e59-2c69-4e58-940b-ee0720f53acc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Beheaded human body",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Beheaded human body</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T00:13:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645920791052",
+    "dcterms:modified" : "2022-02-27T00:13:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=485,665,326,165"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M619.03033,829.46691l-133.58456,-69.8989l55.91912,-60.57904l107.17831,-31.06618l71.45221,-3.10662l73.00551,9.31985l18.63971,34.17279l-125.81801,99.41176z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_1d73d2b1-0770-415f-acea-f038e19f023d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription :Figure du Monstre, qui desole le Gevaudan,Cette B&ecirc;te est de la taille d'un jeune Taureau elle attaque de pr&eacute;f&eacute;rence les Femme et les Enfans elle boit leur Sang, leur coupe la T&ecirc;te et l'emporte.Il est promis 2700 tt &agrave; qui tuerait cet animal.Translation :Figure of the monster that destroys the Gevaudan,This Beast is tall like a young bull, she usually attacks womens and childrens, she drinks their blood, rips their head off and take away.A reward of 2700 livres tournois is promised to the one who will kill it.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Transcription :</strong><br /><br />Figure du Monstre, qui desole le Gevaudan,<br />Cette B&ecirc;te est de la taille d'un jeune Taureau elle attaque de pr&eacute;f&eacute;rence les Femme et les Enfans elle boit leur Sang, leur coupe la T&ecirc;te et l'emporte.<br />Il est promis 2700 tt &agrave; qui <strong>tuerait cet animal.</strong><br /><br /><br /><strong>Translation :</strong><br /><br />Figure of the monster that destroys the Gevaudan,<br />This Beast is tall like a young bull, she usually attacks womens and childrens, she drinks their blood, rips their head off and take away.<br />A reward of 2700 livres tournois is promised to the one who will kill it.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/74775654",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:59:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645797555255",
+    "dcterms:modified" : "2022-02-25T14:24:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://dtsoline.github.io/IIIF-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4,11,1225,164"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1229.03401,175.07721h-612.55699v0h-612.55699v-82.10202v-82.10202h612.55699h612.55699v82.10202z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_973d3781-421e-439a-8afc-94f335b4b0af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8e086dd8-1df6-4ce3-aa57-0ab27100a7aa"
+    } ]
+  } ],
+  "@id" : "https://dtsoline.github.io/IIIF-project/annotations/6577be76384b3bea33cbca5a14aa5175.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
