@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://dtsoline.github.io/IIIF-project/annotations/76fc43c63d9e0055c9914fa58da264d2.json", "https://dtsoline.github.io/IIIF-project/annotations/4d1450e5279a717d6eaa149b5f8b626c.json", "https://dtsoline.github.io/IIIF-project/annotations/e304c32dbd2e6fe74e32006ca3afd266.json", "https://dtsoline.github.io/IIIF-project/annotations/6577be76384b3bea33cbca5a14aa5175.json", "https://dtsoline.github.io/IIIF-project/annotations/6ed60e52bb72559b6324fcb685bf0f11.json", "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38000.json" ],
+  "otherContent" : [ "https://dtsoline.github.io/IIIF-project/annotations/76fc43c63d9e0055c9914fa58da264d2.json", "https://dtsoline.github.io/IIIF-project/annotations/e304c32dbd2e6fe74e32006ca3afd266.json", "https://dtsoline.github.io/IIIF-project/annotations/6577be76384b3bea33cbca5a14aa5175.json", "https://dtsoline.github.io/IIIF-project/annotations/6ed60e52bb72559b6324fcb685bf0f11.json", "https://dtsoline.github.io/IIIF-project/annotations/275fbb35ccf96a02a30c63e630b48f38000.json" ],
   "@id" : "https://dtsoline.github.io/IIIF-project/annotations/collection.json",
   "label" : "All annotations loaded in dtsoline/IIIF-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
